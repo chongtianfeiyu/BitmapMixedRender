@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with AssetManager-->
+<TextureAtlas imagePath="spriteSheet.png" pivotX="105" pivotY="156" offsetX="39" offsetY="45" spriteWidth="123" spriteHeight="113">
+  <SubTexture name="role_nvyao_xinshouzhuang_run0001.png" x="0" y="0" width="120" height="108" frameX="66" frameY="111" frameWidth="250" frameHeight="187" framesNum="1"/>
+  <SubTexture name="role_nvyao_xinshouzhuang_run0002.png" x="123" y="4" width="116" height="108" frameX="66" frameY="107" frameWidth="250" frameHeight="187" framesNum="1"/>
+  <SubTexture name="role_nvyao_xinshouzhuang_run0003.png" x="251" y="7" width="113" height="105" frameX="61" frameY="104" frameWidth="250" frameHeight="187" framesNum="1"/>
+  <SubTexture name="role_nvyao_xinshouzhuang_run0004.png" x="9" y="116" width="109" height="105" frameX="57" frameY="108" frameWidth="250" frameHeight="187" framesNum="1"/>
+  <SubTexture name="role_nvyao_xinshouzhuang_run0005.png" x="130" y="113" width="106" height="109" frameX="59" frameY="111" frameWidth="250" frameHeight="187" framesNum="1"/>
+  <SubTexture name="role_nvyao_xinshouzhuang_run0006.png" x="252" y="115" width="106" height="111" frameX="60" frameY="109" frameWidth="250" frameHeight="187" framesNum="1"/>
+  <SubTexture name="role_nvyao_xinshouzhuang_run0007.png" x="7" y="231" width="111" height="107" frameX="59" frameY="106" frameWidth="250" frameHeight="187" framesNum="1"/>
+  <SubTexture name="role_nvyao_xinshouzhuang_run0008.png" x="129" y="228" width="117" height="104" frameX="60" frameY="109" frameWidth="250" frameHeight="187" framesNum="1"/>
+</TextureAtlas>
